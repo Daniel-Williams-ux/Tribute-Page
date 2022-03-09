@@ -1,0 +1,53 @@
+     
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+       }
+  p {
+    font-family: Helvetica, sans-serif;
+  }
+  h1 {
+       font-family: lobster;  
+       text-align: center;
+       background-color: rgba(45, 45, 45, 0.1);
+       padding: 10px;
+       font-size: 27px;
+       color: red
+     }
+  
+  p {
+     text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  .larger-image {
+     width: 300px;
+  }
+  
+  .thick-white-border {
+      border-color: white;
+      border-width: 10px;
+      border-style: solid;
+      border-radius: 10px
+    }
+  
+  figcaption {
+    text-align: center;
+  }
+  
+  a {
+      color: red;
+    }
+  
+    a:hover {
+    color: blue;
+    }
+  
+  
