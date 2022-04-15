@@ -1,7 +1,7 @@
 # Tribute-Page
 
 ![Project Image]
-(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Chinua_Achebe%2C_1966.jpg/220px-Chinua_Achebe%2C_1966.jpg)
+http://127.0.0.1:5500/Tribute-Page/
 
 >The best way to learn is to build projects
 
