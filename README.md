@@ -1,9 +1,9 @@
 # Tribute-Page
 
 ![Project Image]
-http://127.0.0.1:5500/Tribute-Page/
+https://Tribute-Page-1.danielwilliam23.repl.co
 
->The best way to learn is to build projects
+A freeCodeCamp Project
 
 
 ### Table of Contents
